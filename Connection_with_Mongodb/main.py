@@ -3,7 +3,7 @@ import certifi
 
 ca = certifi.where()
 
-client = pymongo.MongoClient("mongodb+srv://mongodb:mongodb@cluster0.3twe7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",tlsCAFile=ca)
+client = pymongo.MongoClient(<connection_link given by mongo db>,tlsCAFile=ca)
 
 db1 = client['testdb'] # creating database with name testdb
 c1=db1['firstable'] #creating table in the database
