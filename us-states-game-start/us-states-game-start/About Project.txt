@@ -1,0 +1,11 @@
+About this project ::
+
+This project has been written in python using pandas & turtle module.
+
+How to play this game ::
+You get a total of 50 turns to point out all the states of United Stated.
+You score points based on the number of states correctly answered.
+
+How to run the game ::
+Turtle & pandas module should be installed .
+Download all the files in your system and excute the main.py file 

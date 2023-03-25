@@ -22,8 +22,8 @@ screen.tracer(0)
 screen.listen()
 screen.onkey(fun=r_paddle.move_up,key='Up')
 screen.onkey(fun=r_paddle.move_down,key='Down')
-screen.onkey(fun=l_paddle.move_up,key='w')
-screen.onkey(fun=l_paddle.move_down,key='s')
+screen.onkey(fun=l_paddle.move_up,key='W')
+screen.onkey(fun=l_paddle.move_down,key='S')
 
 
 game_is_on=True

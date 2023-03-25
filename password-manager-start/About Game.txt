@@ -1,0 +1,14 @@
+About this project ::
+
+This project has been written in python tkinter module.
+This project generated a random password .
+
+How to run the game ::
+tkinter module should be installed .
+Python version >=3.6
+Download all the files in your system and excute the main.py file.
+
+Enter the website & username and click on Generate password
+After the password is generated , click on Add to add the password to the databse which is data.json
+
+

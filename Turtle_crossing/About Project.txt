@@ -1,0 +1,12 @@
+About this project ::
+
+This project has been written in python turtle module.
+
+How to play this game ::
+The objective of this game is to make the turtle reach the other end of the screen without any hitting any obstacle on the way
+
+How to run the game ::
+Turtle module should be installed .
+Python version >=3.6
+Download all the files in your system and excute the main.py file.
+Control the movemnet of turtle using up arrow and down arrow keys.

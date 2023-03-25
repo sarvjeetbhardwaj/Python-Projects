@@ -1,0 +1,13 @@
+About this project ::
+
+This project has been written in python turtle module.
+
+How to play this game ::
+The objective of this game is to make the snake eat it's food as much as possible without touching the boundries.
+Scrore as high as possible.
+
+How to run the game ::
+Turtle module should be installed .
+Python version >=3.6
+Download all the files in your system and excute the main.py file.
+Control the movement of snake using up, down, left, right arrow keys.

@@ -1,0 +1,12 @@
+About this project ::
+
+This project has been written in python tkinter module.
+This is a very simple minesweeper game developed in python tkinter module.
+
+How to run the game ::
+tkinter module should be installed .
+Python version >=3.6
+Download all the files in your system and execute the main.py file.
+
+
+

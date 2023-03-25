@@ -1,0 +1,14 @@
+About this project ::
+
+This project has been written in python turtle module.
+
+How to play this game ::
+The objective of this game is score maximum points by making the opponet miss the ball and at the
+same time the ball should not touch the walls of the corresponding player
+
+How to run the game ::
+Turtle module should be installed .
+Python version >=3.6
+Download all the files in your system and excute the main.py file.
+Control the movement of left paddle by 'W' & 'S' , movement of right paddle by 'UP' & 'DOWN' arrow keys.
+
